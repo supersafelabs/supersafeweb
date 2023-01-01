@@ -7,10 +7,9 @@ const LatestNews = () => {
       <div className="blog-style-area pb-70">
         <div className="container">
           <div className="section-title with-max-width">
-            <h2>Latest News</h2>
+            <h2>SuperSafe Blog</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Educational content, news, and more!
             </p>
           </div>
 
@@ -24,10 +23,10 @@ const LatestNews = () => {
             >
               <div className="blog-style-card">
                 <div className="blog-image">
-                  <Link href="/blog-details">
+                  <Link href="/blog/2022-12-31_WhoWhatWhenWhereWhy">
                     <a>
                       <img
-                        src="/images/cybersecurity-services/blog/blog-1.jpg"
+                        src="/images/cybersecurity-services/blog/blog-3.jpg"
                         alt="image"
                       />
                     </a>
@@ -35,16 +34,12 @@ const LatestNews = () => {
                 </div>
                 <div className="blog-content">
                   <ul className="meta">
-                    <li>
-                      By <a href="#">Admin</a>
-                    </li>
-                    <li>March 15, 2022</li>
+                    <li>December 31, 2022</li>
                   </ul>
                   <h3>
-                    <Link href="/blog-details">
+                    <Link href="/blog/2022-12-31_WhoWhatWhenWhereWhy">
                       <a>
-                        Proper Guide Line Learning Strategies About Cyber
-                        Security
+                        The Who-What-When-Where-Why behind SuperSafe.
                       </a>
                     </Link>
                   </h3>
@@ -52,7 +47,7 @@ const LatestNews = () => {
               </div>
             </div>
 
-            <div 
+            {/* <div 
               className="col-lg-4 col-md-6" 
               data-aos="fade-up"
               data-aos-delay="400"
@@ -84,9 +79,9 @@ const LatestNews = () => {
                   </h3>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div 
+            {/* <div 
               className="col-lg-4 col-md-6"
               data-aos="fade-up"
               data-aos-delay="600"
@@ -121,7 +116,7 @@ const LatestNews = () => {
                   </h3>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
 

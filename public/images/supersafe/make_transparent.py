@@ -1,6 +1,6 @@
 from PIL import Image
 
-fname_in = "bg2.png"
+fname_in = "bg3.png"
 
 img = Image.open(fname_in)
 img = img.convert("RGBA")
@@ -13,8 +13,8 @@ for item in data:
   # end if
 # end for
 
-fname_in = "logo.png"
-fname_out = "logo_transparent.png"
+fname_in = "safe_logo.png"
+fname_out = "safe_logo_transparent.png"
 
 img = Image.open(fname_in)
 img = img.convert("RGBA")
