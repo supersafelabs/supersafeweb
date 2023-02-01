@@ -9,8 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.4.6",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "aos": "^2.3.4",
     "axios": "^0.27.2",
+    "framer-motion": "^8.4.0",
     "fslightbox-react": "^1.6.2-2",
     "next": "12.2.2",
     "nodemailer": "^6.7.7",

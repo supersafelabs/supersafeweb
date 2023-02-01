@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 
 const LatestNews = () => {
   return (
@@ -47,7 +48,7 @@ const LatestNews = () => {
               </div>
             </div>
 
-            {/* <div 
+            <div 
               className="col-lg-4 col-md-6" 
               data-aos="fade-up"
               data-aos-delay="400"
@@ -56,30 +57,31 @@ const LatestNews = () => {
             >
               <div className="blog-style-card">
                 <div className="blog-image">
-                  <Link href="/blog-details">
+                  <Link href="/blog/2023-01-31_OriginStory">
                     <a>
-                      <img
-                        src="/images/cybersecurity-services/blog/blog-2.jpg"
+                      <Image
+                        src="/images/cybersecurity-services/video-bg.jpg"
                         alt="image"
+                        width={516}
+                        height={320}
                       />
                     </a>
                   </Link>
                 </div>
                 <div className="blog-content">
                   <ul className="meta">
-                    <li>
-                      By <a href="#">Admin</a>
-                    </li>
-                    <li>March 15, 2022</li>
+                    <li>January 31, 2023</li>
                   </ul>
                   <h3>
-                    <Link href="/blog-details">
-                      <a>Rules To Protect Your Account From Cyber Attack</a>
+                    <Link href="/blog/2023-01-31_OriginStory">
+                      <a>
+                      The Origins of SuperSafe.
+                      </a>
                     </Link>
                   </h3>
                 </div>
               </div>
-            </div> */}
+            </div>
 
             {/* <div 
               className="col-lg-4 col-md-6"
