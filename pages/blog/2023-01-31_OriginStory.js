@@ -75,7 +75,7 @@ export default function WhoWhatWhenWhereWhySuperSafe() {
                                     What a month January has been! From CES to Qubits after and in between, SuperSafe's first full month was jam-packed with meeting many brilliant folks.
                                 </p>
                                 <p>
-                                    Befor diving into January, I'd like to take a step back and discuss SuperSafe's origins since this post will be the first in a blog style 
+                                    Before diving into January, I'd like to take a step back and discuss SuperSafe's origins since this post will be the first in a blog style 
                                     (my previous post <a href="/blog/2022-12-31_WhoWhatWhenWhereWhy">The Who-What-When-Where-Why Behind SuperSafe</a>)
                                     was more like the seeds of an FAQ or about page).
                                 </p>
@@ -98,7 +98,7 @@ export default function WhoWhatWhenWhereWhySuperSafe() {
                                 </p>
                                 <ul>
                                     <li>
-                                    The relatively expensive living situtation and meager accomodations were a stark contrast to <a href="https://housing.umich.edu/residence-hall/munger/">Munger</a>in Michigan.
+                                    The relatively expensive living situtation and meager accomodations were a stark contrast to <a href="https://housing.umich.edu/residence-hall/munger/">Munger</a> in Michigan.
                                     </li>
                                     <li>
                                     I was ~unable to travel from what I recall this was due to my work visa before I was issued a residence card, although Europe in general was quite locked down from what I recall.
@@ -119,9 +119,8 @@ export default function WhoWhatWhenWhereWhySuperSafe() {
                                     (he was simultaneously studying computer science in Montreal). The seed for SuperSafe was sown (although it would not sprout until ~December 2022): I set $1M by Thanksgiving 2022 (with end of year as a fallback) and $10M (after-taxes) by Thanksgiving 2023 as my goals. Now how to achieve them?
                                 </p>
                                 <p>
-                                    I didn't much like the idea of selling physical products as the book preached; after all, I buy hardly any physical products 
-                                    <a href="https://www.amazon.com/Plackers-Flossers-Fold-Out-Toothpick-Tuffloss/dp/B085YL4HR7/ref=sr_1_5?crid=1LPMX26WPDQ21&keywords=flossers&qid=1675239130&sprefix=flosser%2Caps%2C177&sr=8-5">aside from necessities.</a>
-                                    Nevertheless, the core message from the book I took to be: build a brand on social media.
+                                    I didn't much like the idea of selling physical products as the book preached; after all, I buy hardly any physical products  <a href="https://www.amazon.com/Plackers-Flossers-Fold-Out-Toothpick-Tuffloss/dp/B085YL4HR7/ref=sr_1_5?crid=1LPMX26WPDQ21&keywords=flossers&qid=1675239130&sprefix=flosser%2Caps%2C177&sr=8-5">aside from necessities</a>.
+                                     Nevertheless, the core message from the book I took to be: build a brand on social media.
                                 </p>
                                 <p>
                                     So I took my first plunge into the twitterverse. My daily email newsletter from <a href="https://www.cryptocompare.com/">CryptoCompare</a> started discussing NFTs and it felt like 2017 crypto all over again.
@@ -138,26 +137,24 @@ export default function WhoWhatWhenWhereWhySuperSafe() {
                                     But the best part was witnessing the growth of my summer undergraduate research student.
                                     From teaching him basic Linux commands and how to run Athena simulations in the first few weeks,
                                     I saw him grow into an independent researcher.
-                                    In just seven weeks, he was able to set up and perform his own <a href="http://max.lyman-alpha.com/cloud-crushing/">cloud-crushing</a>
-                                    simulations and discovered an astonishing result.
+                                    In just seven weeks, he was able to set up and perform his own <a href="http://max.lyman-alpha.com/cloud-crushing/">cloud-crushing </a> 
+                                     simulations and discovered an astonishing result.
                                     Dynamically relevant magnetized systems permit the survival of cold gas clouds 100x smaller than in the pure hydrodynamic case!
                                     We're still grappling with how this works in detail.
                                 </p>
                                 <p>
-                                    While accelerated entrainment due to <a href="https://online.kitp.ucsb.edu/online/gclusters11/pfrommer/pdf/Pfrommer_GalaxyClusters_KITP.pdf">magnetic draping</a>
+                                    While accelerated entrainment due to <a href="https://online.kitp.ucsb.edu/online/gclusters11/pfrommer/pdf/Pfrommer_GalaxyClusters_KITP.pdf">magnetic draping </a>
                                     does play a role, it doesn't appear to fully account for a two magnitude boost. 
                                     In agreement with previous work 
                                     (<a href="https://academic.oup.com/mnras/article-abstract/492/2/1970/5651168">Gronke & Oh 2020</a>; Das & Gronke, in prep.)
                                     we don't find magnetic fields significantly modify mixing [at least not in the efficient cooling limit...]
                                     Magnetic compression does shift the density PDF to higher values, including the tail, but only by a factor of a few,
                                     still apparently insufficient to fully explain our result.
-                                </p>he
-                                <p>
                                     In any case, the paper is otherwise written up and we plan to submit it in a few weeks.
                                 </p>
                                 <p>
                                     Moreover, I successfully proposed to perform the highest resolution state-of-the-art galaxy simulations,
-                                    to conclusively study the evolution of cold gas in galactic winds with uniform resolution to the virial radius. 
+                                    to conclusively study the evolution of cold gas in galactic winds with uniform resolution to the virial radius and using Lagrangian tracer particles. 
                                     I was awarded ~40M CPU-hours (roughly $3M according to <a href="https://hec.nasa.gov/user/policies/sbus.html">NASA-Pleiades SBUs</a>)
                                     to perform these simulations.
                                     We're currently testing at lower resolution to ensure the premier run is well-spent.
@@ -166,17 +163,17 @@ export default function WhoWhatWhenWhereWhySuperSafe() {
                                 (<a href="https://arxiv.org/abs/2209.13622">molecular shattering</a>), 
                                 performing a thorough parameter study (~100 simulations) in high-resolution
                                 hydrodynamic simulations.
-                                I presented preliminary results at Ringberg in February 2022 and will present again 
-                                <a href="https://sites.google.com/view/oases-in-the-cosmic-desert">in Tempe in February 2023.</a>
+                                I presented preliminary results at Ringberg in February 2022 and will present again  
+                                <a href="https://sites.google.com/view/oases-in-the-cosmic-desert"> in Tempe in February 2023</a>. 
                                 The paper should be published ~soon (unless there's another referee report round).
                                 </p>
 
 
                                 <h3>Web3</h3>
                                 <p>
-                                    On the web3 side, I developed and deployed about a dozen NFT smart contracts, mostly ERC721(A) with a smattering of 1155s, learning Solidity pretty solidly (pun intended). 
-                                    I developed the corresponding minting dapps in Create React App and grew thoroughly accustomed to <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd">CI/CD</a>, utilizing <a href="fleek.co">Fleek</a>,
-                                    <a href="netlify.com">Netlify</a>, and <a href="vercel.com">Vercel</a> and ocassionally pure <a href="https://aws.amazon.com/">AWS</a>/<a href="https://cloud.google.com/">GCP</a>.
+                                    On the web3 side, I developed and deployed about a dozen NFT smart contracts, mostly ERC721(A) with a smattering of 1155s, learning Solidity pretty solidly. 
+                                    I developed the corresponding minting dapps as React apps and grew thoroughly accustomed to <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd">CI/CD</a>, utilizing <a href="fleek.co">Fleek</a>, 
+                                    <a href="netlify.com"> Netlify</a>, and <a href="vercel.com">Vercel</a> and ocassionally pure <a href="https://aws.amazon.com/">AWS</a>/<a href="https://cloud.google.com/">GCP</a>.
                                 </p>
                                 <p>
                                     I also built over a dozen discord bots (averaged one smart contract / discord bot every two weeks in 2022) with various functionalities; 
@@ -191,10 +188,10 @@ export default function WhoWhatWhenWhereWhySuperSafe() {
                                     it clearly was not going to scale to my financial goals.
                                     That said, I hope to help the space when I'm in a better position to do so;
                                     this past week 
-                                    <a href="https://cointelegraph.com/news/hackers-takeover-azuki-s-twitter-account-steal-over-750k-in-less-than-30-minutes">a phishing tweet from a compromised NFT twitter account drained
+                                    <a href="https://cointelegraph.com/news/hackers-takeover-azuki-s-twitter-account-steal-over-750k-in-less-than-30-minutes"> a phishing tweet from a compromised NFT twitter account drained
                                     $750k in under an hour</a>.
-                                    I do hope my groundbreaking (at the time), <a href="https://docs.rootroop.com/phase-three-more-perks/roo-tech/dauthy">just-in-time two-factor discord authenticator</a>
-                                    removes one attack vector from NFT scams plaguing the space.
+                                    I do hope my groundbreaking (at the time), <a href="https://docs.rootroop.com/phase-three-more-perks/roo-tech/dauthy">just-in-time two-factor discord authenticator </a>
+                                     removes one attack vector from NFT scams plaguing the space.
                                     However, I believe more systemic change requires education, requiring rather substantive financial incentives for adequate buy-in in the NFT space, unfortunately.
                                 </p>
                                 <p>
@@ -217,16 +214,14 @@ export default function WhoWhatWhenWhereWhySuperSafe() {
                                 <p>
                                     That, I thought, might be interesting to dive deeper down. 
                                     And down I went down the rabbithole,
-                                    reading <a href="https://link.springer.com/article/10.1007/BF02650179">Feynman's pioneering lecture</a>,
-                                    <a href="https://newsroom.ibm.com/2022-11-09-IBM-Unveils-400-Qubit-Plus-Quantum-Processor-and-Next-Generation-IBM-Quantum-System-Two">
-                                    IBM's rapid qubit progress
-                                    </a>,
-                                    <a href="https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication">
-                                    Wikipedia's list of advancements in quantum computing
+                                    reading <a href="https://link.springer.com/article/10.1007/BF02650179">Feynman's pioneering lecture</a>, 
+                                    <a href="https://newsroom.ibm.com/2022-11-09-IBM-Unveils-400-Qubit-Plus-Quantum-Processor-and-Next-Generation-IBM-Quantum-System-Two"> IBM's rapid qubit progress 
+                                    </a>, 
+                                    <a href="https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication"> Wikipedia's list of advancements in quantum computing 
                                     </a>. 
                                     Interestingly, the Wikipedia list includes quantum communication, 
                                     the most interesting of which is
-                                    <a href="https://iopscience.iop.org/article/10.1088/1367-2630/13/11/113015/meta">provably secure communications</a>,
+                                    <a href="https://iopscience.iop.org/article/10.1088/1367-2630/13/11/113015/meta"> provably secure communications</a>,
                                     utilizing both special relativity and the no-cloning theorem in its bit-commitment protocol.                                    
                                 </p>
                                 <p>
@@ -238,11 +233,11 @@ export default function WhoWhatWhenWhereWhySuperSafe() {
                                 <p>
                                     From there, I read on Shor's algorithm and Grover's algorithm and the perils they play towards modern cryptography 
                                     (I expect I'll write a dedicated article on them at a later date). 
-                                    <a href="https://csrc.nist.gov/Projects/post-quantum-cryptography">NIST</a> began a standardization process for post-quantum-cryptography (PQC) way back in 2016!!
+                                    <a href="https://csrc.nist.gov/Projects/post-quantum-cryptography"> NIST</a> began a standardization process for post-quantum-cryptography (PQC) way back in 2016!!
                                     However, just in July of 2022 they announced the first PQC algorithm to be standardized, 
-                                    <a href="https://pq-crystals.org/kyber/">Kyber by CRYSTALS</a>.
+                                    <a href="https://pq-crystals.org/kyber/"> Kyber by CRYSTALS</a>.
                                     Moreover, in just September of 2022
-                                    <a href="https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3148990/nsa-releases-future-quantum-resistant-qr-algorithm-requirements-for-national-se/">the NSA</a>
+                                    <a href="https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3148990/nsa-releases-future-quantum-resistant-qr-algorithm-requirements-for-national-se/"> the NSA </a>
                                     released its plan for all national security systems (utilized by 50 different departments and agencies)
                                     to upgrade to quantum-resistant cryptography (synonymous with PQC, and I prefer it)
                                     by 2035 (although 2033 in the <a href="https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3247606/nsa-publishes-2022-cybersecurity-year-in-review/">year-end report</a>).
@@ -252,6 +247,9 @@ export default function WhoWhatWhenWhereWhySuperSafe() {
                                     the Biden administration is adamant that the US stays ahead of the curve.
                                     Now is the perfect time to aid the adoption of quantum-resistant encryption 
                                     and help healthcare centers, financial institutions, and the brave red-white-and-blue prepare for tomorrow's cyberattacks, today.
+                                </p>
+                                <p>
+                                    Today is the day for SuperSafe!
                                 </p>
 
                                 
