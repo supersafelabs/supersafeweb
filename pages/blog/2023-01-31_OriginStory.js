@@ -26,7 +26,7 @@ export default function WhoWhatWhenWhereWhySuperSafe() {
                                                 <span className="name">
                                                     By <a href="#">Ryan</a>
                                                 </span>
-                                                <span className="date">January 1, 2023</span>
+                                                <span className="date">January 31, 2023</span>
                                             </div>
                                         </div>
                                     </div>
