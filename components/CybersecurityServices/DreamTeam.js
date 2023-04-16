@@ -87,7 +87,74 @@ const DreamTeam = () => {
                   <span>Founder</span>
                 </div>
               </div>
+
+              <div className="team-member-card">
+                <div className="team-image">
+                  <img
+                    src="/images/supersafe/charles2.jpeg"
+                    alt="image"
+                  />
+
+                  <div className="social-btn">
+                    <span>
+                      <i className="ri-share-line"></i>
+                    </span>
+
+                    <ul>
+                      <li>
+                        <a
+                          href="https://www.linkedin.com/in/charles-murray-00a4498a/"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          <img src="/images/supersafe/icons8-linkedin.svg"></img>
+                          {/* <a target="_blank" href="https://icons8.com/icon/60444/linkedin-circled">LinkedIn Circled</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> */}
+                        </a>
+                      </li>
+                      {/* <li>
+                        <a
+                          href="https://twitter.com/"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          <i className="ri-twitter-fill"></i>
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href="https://www.instagram.com/"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          <i className="ri-instagram-fill"></i>
+                        </a>
+                      </li> */}
+                    </ul>
+                  </div>
+                </div>
+                <div className="team-content">
+                  <h3>Charles Murray</h3>
+                  <span>Chief Marketing Officer</span>
+                </div>
+              </div>
+
+              <div className="team-member-card">
+                <div className="team-image">
+                  <img
+                    src="/images/supersafe/ben.jpg"
+                    alt="image"
+                  />
+
+                  
+                </div>
+                <div className="team-content">
+                  <h3>Ben Hogan</h3>
+                  <span>Chief Operations Officer</span>
+                </div>
+              </div>
             </div>
+            
+
 
             {/* <div 
               className="col-lg-3 col-sm-6"
