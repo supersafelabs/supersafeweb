@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 
 const LatestNews = () => {
+  const AosDelay="300"
   return (
     <>
       <div className="blog-style-area pb-70">
@@ -15,11 +16,47 @@ const LatestNews = () => {
           </div>
 
           <div className="row justify-content-center">
-
           <div 
                 className="col-lg-4 col-md-6"
                 data-aos="fade-up"
-                data-aos-delay="600"
+                data-aos-delay={AosDelay}
+                data-aos-duration="1200"
+                data-aos-once="true"
+              >
+                <div className="blog-style-card">
+                  <div className="blog-image">
+                    <Link href="/blog/2023-04-17_Charles">
+                      <a>
+                        <img
+                          src="/images/supersafe/charles2.jpeg"
+                          alt="image"
+                        />
+                      </a>
+                    </Link>
+                  </div>
+                  <div className="blog-content">
+                    <ul className="meta">
+                      <li>April 17, 2023</li>
+                    </ul>
+                    <h3>
+                      <Link href="/blog/2023-04-17_Charles">
+                        <a>
+                          Introducing SuperSafe's Chief Marketing Officer: Charles Murray.
+                        </a>
+                      </Link>
+                    </h3>
+                  </div>
+                </div>
+            </div>
+            </div>
+
+
+          <div className="row justify-content-center">
+
+            <div 
+                className="col-lg-4 col-md-6"
+                data-aos="fade-up"
+                data-aos-delay={AosDelay}
                 data-aos-duration="1200"
                 data-aos-once="true"
               >
@@ -28,7 +65,7 @@ const LatestNews = () => {
                     <Link href="/blog/2023-04-01_Together">
                       <a>
                         <img
-                          src="/images/cybersecurity-services/blog/blog-3.jpg"
+                          src="/images/supersafe/together.png"
                           alt="image"
                         />
                       </a>
@@ -47,12 +84,13 @@ const LatestNews = () => {
                     </h3>
                   </div>
                 </div>
-            </div>
+              </div>
 
+            <div className="row justify-content-center">
           <div 
                 className="col-lg-4 col-md-6"
                 data-aos="fade-up"
-                data-aos-delay="600"
+                data-aos-delay={AosDelay}
                 data-aos-duration="1200"
                 data-aos-once="true"
               >
@@ -61,7 +99,7 @@ const LatestNews = () => {
                     <Link href="/blog/2023-03-31_LKYGBPC">
                       <a>
                         <img
-                          src="/images/cybersecurity-services/blog/blog-3.jpg"
+                          src="/images/supersafe/lkygbpc_black.png"
                           alt="image"
                         />
                       </a>
@@ -81,11 +119,13 @@ const LatestNews = () => {
                   </div>
                 </div>
             </div>
+            </div>
 
+            <div className="row justify-content-center">
           <div 
                 className="col-lg-4 col-md-6"
                 data-aos="fade-up"
-                data-aos-delay="600"
+                data-aos-delay={AosDelay}
                 data-aos-duration="1200"
                 data-aos-once="true"
               >
@@ -94,7 +134,7 @@ const LatestNews = () => {
                     <Link href="/blog/2023-03-30_BlackHolesAndQuantumGravity">
                       <a>
                         <img
-                          src="/images/cybersecurity-services/blog/blog-3.jpg"
+                          src="/images/supersafe/Bousso.jpeg"
                           alt="image"
                         />
                       </a>
@@ -114,11 +154,12 @@ const LatestNews = () => {
                   </div>
                 </div>
             </div>
+            </div>
 
           <div 
                 className="col-lg-4 col-md-6"
                 data-aos="fade-up"
-                data-aos-delay="600"
+                data-aos-delay={AosDelay}
                 data-aos-duration="1200"
                 data-aos-once="true"
               >
@@ -127,7 +168,7 @@ const LatestNews = () => {
                     <Link href="/blog/2023-03-29_PodcastsIncoming">
                       <a>
                         <img
-                          src="/images/cybersecurity-services/blog/blog-3.jpg"
+                          src="/images/supersafe/QuantumTech.png"
                           alt="image"
                         />
                       </a>
@@ -147,11 +188,11 @@ const LatestNews = () => {
                   </div>
                 </div>
             </div>
-
+            <div className="row justify-content-center">
             <div 
                 className="col-lg-4 col-md-6"
                 data-aos="fade-up"
-                data-aos-delay="600"
+                data-aos-delay={AosDelay}
                 data-aos-duration="1200"
                 data-aos-once="true"
               >
@@ -160,8 +201,9 @@ const LatestNews = () => {
                     <Link href="/blog/2023-03-28_Base">
                       <a>
                         <img
-                          src="/images/cybersecurity-services/blog/blog-3.jpg"
+                          src="/images/supersafe/base.png"
                           alt="image"
+                          height="208"
                         />
                       </a>
                     </Link>
@@ -180,7 +222,8 @@ const LatestNews = () => {
                   </div>
                 </div>
             </div>
-
+            </div>
+            <div className="row justify-content-center">
           <div 
               className="col-lg-4 col-md-6"
               data-aos="fade-up"
@@ -190,10 +233,10 @@ const LatestNews = () => {
             >
               <div className="blog-style-card">
                 <div className="blog-image">
-                  <Link href="/blog/2023-03-27_Crypto101a_CaesarCipher">
+                  <Link href="/blog/2023-03-15_Crypto101a_CaesarCipher">
                     <a>
                       <img
-                        src="/images/cybersecurity-services/blog/blog-3.jpg"
+                        src="/images/supersafe/hellow2.png"
                         alt="image"
                       />
                     </a>
@@ -213,11 +256,13 @@ const LatestNews = () => {
                 </div>
               </div>
           </div>
-
-              <div 
+        </div>
+        </div>
+        <div className="row justify-content-center">
+          <div 
                 className="col-lg-4 col-md-6"
                 data-aos="fade-up"
-                data-aos-delay="600"
+                data-aos-delay={AosDelay}
                 data-aos-duration="1200"
                 data-aos-once="true"
               >
@@ -226,7 +271,7 @@ const LatestNews = () => {
                     <Link href="/blog/2023-03-08_BenIntro">
                       <a>
                         <img
-                          src="/images/cybersecurity-services/blog/blog-3.jpg"
+                          src="/images/supersafe/ben.jpg"
                           alt="image"
                         />
                       </a>
@@ -246,11 +291,13 @@ const LatestNews = () => {
                   </div>
                 </div>
             </div>
+            </div>
 
+            <div className="row justify-content-center">
             <div 
                 className="col-lg-4 col-md-6"
                 data-aos="fade-up"
-                data-aos-delay="600"
+                data-aos-delay={AosDelay}
                 data-aos-duration="1200"
                 data-aos-once="true"
               >
