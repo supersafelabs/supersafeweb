@@ -48,7 +48,7 @@ const Navbar = () => {
                         href="tel:+1-485-456-0102"
                         className="d-flex align-items-center"
                       >
-                        <i className="ri-phone-line"></i> +1-415-847-8938
+                        <i className="ri-phone-line"></i> +1-415-258-4800
                       </a>
                     </div>
                     <ul className="social-links">
