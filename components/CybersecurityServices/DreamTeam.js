@@ -137,21 +137,6 @@ const DreamTeam = () => {
                   <span>Chief Marketing Officer</span>
                 </div>
               </div>
-
-              <div className="team-member-card">
-                <div className="team-image">
-                  <img
-                    src="/images/supersafe/ben.jpg"
-                    alt="image"
-                  />
-
-                  
-                </div>
-                <div className="team-content">
-                  <h3>Ben Hogan</h3>
-                  <span>Chief Operations Officer</span>
-                </div>
-              </div>
             </div>
             
 
