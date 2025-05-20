@@ -123,7 +123,7 @@ const Footer = () => {
         <div className="copyright-area">
           <div className="container">
             <p>
-              Copyright &copy; 2023 SuperSafe, LLC. All rights reserved.
+              Copyright &copy; 2023-2025 SuperSafe, LLC. All rights reserved.
             </p>
           </div>
         </div>
